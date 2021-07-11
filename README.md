@@ -10,3 +10,6 @@ I am a cybersecurity enthusiast, CTF Player, and Programmer.
 
 
 Programming since highschool using a normal notepad but already had experience with computers at the age of 5. Web Development, Penetration Testing (*HackTheBox*, *TryHackMe*, etc.), Programming, and Capture-The-Flag Challenge Solving are some of the activities I actually enjoy.
+
+
+**MOST OF THE REPOSITORIES WOULD BE PRIVATE. SO DON'T EXPECT THAT YOU WILL SEE SOME PUBLIC REPOSITORIES AS OF THIS DATE.**
